@@ -2,4 +2,4 @@
 
 Hello humans!
 
-Goodbye.
+Goodbye, for now.
